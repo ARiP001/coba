@@ -10,6 +10,8 @@ int main (){
 
 
     float number = 5.2;
-    
+    cout << "nilai float : "<<number <<endl;
+
+
     return 0;
 }
