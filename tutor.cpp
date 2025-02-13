@@ -2,10 +2,8 @@
 
 using namespace std;
 int main (){
-    int x = 10;
-    cout << "hello world"<< endl;
+    cout << "hello world";
 
-    cout << "github sudah berhasil\n";
-    cout << "nilai x : "<<x << endl;
+    cout << "github sudah berhasil";
     return 0;
 }
